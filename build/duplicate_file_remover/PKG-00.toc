@@ -1,0 +1,51 @@
+('C:\\Users\\joshu\\OneDrive\\Documents\\GitHub '
+ 'Projects\\DuplicateFileRemover\\DuplicateFileRemover\\build\\duplicate_file_remover\\duplicate_file_remover.pkg',
+ {'BINARY': True,
+  'DATA': True,
+  'EXECUTABLE': True,
+  'EXTENSION': True,
+  'PYMODULE': True,
+  'PYSOURCE': True,
+  'PYZ': False,
+  'SPLASH': True},
+ [('PYZ-00.pyz',
+   'C:\\Users\\joshu\\OneDrive\\Documents\\GitHub '
+   'Projects\\DuplicateFileRemover\\DuplicateFileRemover\\build\\duplicate_file_remover\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'C:\\Users\\joshu\\OneDrive\\Documents\\GitHub '
+   'Projects\\DuplicateFileRemover\\DuplicateFileRemover\\build\\duplicate_file_remover\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'C:\\Users\\joshu\\OneDrive\\Documents\\GitHub '
+   'Projects\\DuplicateFileRemover\\DuplicateFileRemover\\build\\duplicate_file_remover\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'C:\\Users\\joshu\\OneDrive\\Documents\\GitHub '
+   'Projects\\DuplicateFileRemover\\DuplicateFileRemover\\build\\duplicate_file_remover\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'C:\\Users\\joshu\\OneDrive\\Documents\\GitHub '
+   'Projects\\DuplicateFileRemover\\DuplicateFileRemover\\build\\duplicate_file_remover\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyimod04_pywin32',
+   'C:\\Users\\joshu\\OneDrive\\Documents\\GitHub '
+   'Projects\\DuplicateFileRemover\\DuplicateFileRemover\\build\\duplicate_file_remover\\localpycs\\pyimod04_pywin32.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'C:\\Users\\joshu\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'C:\\Users\\joshu\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('duplicate_file_remover',
+   'C:\\Users\\joshu\\OneDrive\\Documents\\GitHub '
+   'Projects\\DuplicateFileRemover\\DuplicateFileRemover\\duplicate_file_remover.py',
+   'PYSOURCE')],
+ True,
+ False,
+ False,
+ [],
+ None,
+ None,
+ None)
